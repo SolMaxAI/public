@@ -29,7 +29,7 @@ Sol Max AI evaluates tokens using:
 
 ## 📈 Graph: Token Score Distribution
 
-![Token Score Distribution](docs/images/score_graph.png)
+![Token Score Distribution](/score_graph.png)
 
 ---
 
