@@ -18,7 +18,7 @@ Sol Max AI evaluates tokens using:
 
 ```json
 {
-  "token": "4RkRqGymdpa7s3CH7ND7ozdCaowjCpfNeSUPGCJRpump",
+  "token": "71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg",
   "score": 83,
   "risk": "low",
   "hype_index": 74
