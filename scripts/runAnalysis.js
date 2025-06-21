@@ -1,0 +1,3 @@
+// Script to run AI analysis
+const analyze = require('../src/ai/analysis');
+// ...

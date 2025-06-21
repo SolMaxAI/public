@@ -1,0 +1,1 @@
+int hypeScore(int mentions) { return mentions * 2; }
